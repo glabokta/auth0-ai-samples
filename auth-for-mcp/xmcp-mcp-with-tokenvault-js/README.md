@@ -88,6 +88,11 @@ The server exposes three tools:
 | [10. Invoke Tools](#10-invoke-tools) | Try the tools |
 
 ---
+
+## Architecture diagram for this sample
+<img width="1447" height="1448" alt="image" src="https://github.com/user-attachments/assets/d669d7ac-598d-4a53-a96a-9d5db6fb51e3" />
+
+
 ## 1. Setup
 
 Clone the sample repository and install dependencies:
